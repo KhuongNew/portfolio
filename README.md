@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/Status-Online-success)](https://khuongnew.github.io/portfolio/)
 [![Made with](https://img.shields.io/badge/Made%20with-HTML%2FCSS%2FJS-black)](#tech-stack)
 
-> **Live site:** https://khuongnew.github.io/portfolio/  
+> **Live site:** 
 ---
 
 ## ✨ Tính năng nổi bật
